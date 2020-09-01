@@ -3,6 +3,6 @@ This is a Wordpress Plugin that gives Woocommerce functionality to the 3dPrint L
 
 <b>Instructions - Very Important</b>
 <ol>
-  <li>Download the main plugin folder</li>
+  <li>Download the main plugin folder: "woocommerce-functionality-for-3dPrint-Lite.zip".</li>
   
 </ol>
