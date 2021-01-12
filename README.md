@@ -12,6 +12,12 @@ This is a Wordpress Plugin that gives Woocommerce functionality to the 3dPrint L
   <p>3DPrint Lite WF Tab</p>
   <img src="https://i.imgur.com/ip3MZiI.png">
   <br>
+  <li>Save Changes, and you're on to the last step!</li>
   <img src="https://i.imgur.com/Xu2cm4B.png">
-  <li>Save Changes and you're done! Enjoy your free Woocommerce Functionality for 3DPrint Lite!</li>
+  <li>On the page where you have your 3dPrint lite shortcode embedded, add your 3DPLWF shortcode:<br>
+    <code>[3dpwf_add_to_cart]</code><br>
+    It can be anywhere on the page, but we recommend just above the 3dPrint lite shortcode. Just below is an image of this shortcode in Elementor.</li>
+  <img src="https://i.imgur.com/iYnJ3H1.png"><br>
+  <h2>Now you are done! Enjoy free Woocommerce Functionality for 3dPrint lite!</h2>
+  <img src="https://i.imgur.com/YP4g7nJ.png">
 </ol>
