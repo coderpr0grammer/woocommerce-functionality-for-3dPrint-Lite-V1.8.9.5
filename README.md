@@ -1,4 +1,6 @@
 # woocommerce-functionality-for-3dPrint-Lite
+Good News! Updated Version for 3dPrint Lite 1.8.9.5 is now out!
+
 This is a Wordpress Plugin that gives Woocommerce functionality to the 3dPrint Lite plugin, which does not feature Woocommerce functionality as is. For that, you would need to purchase the premium version that costs $50 USD, so this plugin saves you some money.
 
 <b>Instructions - Very Important</b>
